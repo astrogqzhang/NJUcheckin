@@ -123,6 +123,7 @@ class Njuer:
         return 0
 
 if __name__ == "__main__":
+    print(USERNAME)
     if not USERNAME or not PASSWORD:
         print("请正确配置用户名和密码！")
         sys.exit()
