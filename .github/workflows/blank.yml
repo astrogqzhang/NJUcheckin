@@ -6,7 +6,7 @@ on:
    push:
    
    schedule:
-      - cron: '57 11 * * *'
+      - cron: '00 12 * * *'
 
 
 jobs:
